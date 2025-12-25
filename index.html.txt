@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>KENYAN POLITICS 24/7 | Latest Political News</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Font Awesome -->
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+  />
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600&family=Roboto&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<!-- ================= HEADER ================= -->
+<header class="header">
+  <div class="logo">
+    <img src="https://i.ibb.co/hFN1RLBH/kenyan-politics-logo.png" alt="Kenyan Politics 24/7">
+  </div>
+
+  <nav class="nav">
+    <a href="#">Home</a>
+    <a href="#">Breaking</a>
+    <a href="#">Politics</a>
+    <a href="#">Counties</a>
+    <a href="#">Videos</a>
+    <a href="#">Contact</a>
+  </nav>
+
+  <div class="socials">
+    <a href="#"><i class="fab fa-youtube"></i></a>
+    <a href="#"><i class="fab fa-tiktok"></i></a>
+    <a href="#"><i class="fab fa-facebook"></i></a>
+  </div>
+</header>
+
+<!-- ================= HERO ================= -->
+<section class="hero">
+  <div class="hero-content">
+    <span class="breaking">BREAKING NEWS</span>
+    <h1>Kenya’s Political Landscape Shifts Ahead of Major Parliamentary Debate</h1>
+    <p>Authoritative, timely, and independent political reporting from across Kenya.</p>
+  </div>
+</section>
+
+<!-- ================= TOP STORIES ================= -->
+<section class="top-stories">
+  <h2>Top Stories</h2>
+
+  <div class="stories-grid">
+    <article>
+      <img src="https://picsum.photos/400/250?1" alt="">
+      <h3>Opposition Leaders Address Rising Cost of Living</h3>
+    </article>
+
+    <article>
+      <img src="https://picsum.photos/400/250?2" alt="">
+      <h3>Government Responds to Public Finance Concerns</h3>
+    </article>
+
+    <article>
+      <img src="https://picsum.photos/400/250?3" alt="">
+      <h3>New Bills Proposed in the National Assembly</h3>
+    </article>
+  </div>
+</section>
+
+<!-- ================= CATEGORIES ================= -->
+<section class="categories">
+  <h2>Politics Categories</h2>
+
+  <div class="category-grid">
+    <div class="cat">Parliament</div>
+    <div class="cat">Elections</div>
+    <div class="cat">Counties</div>
+    <div class="cat">Judiciary</div>
+    <div class="cat">International</div>
+  </div>
+</section>
+
+<!-- ================= VIDEOS ================= -->
+<section class="videos">
+  <h2>Latest Videos</h2>
+
+  <div class="video-grid">
+    <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
+  </div>
+</section>
+
+<!-- ================= FOOTER ================= -->
+<footer class="footer">
+  <p><strong>KENYAN POLITICS 24/7</strong> – The Home of the Latest and Trending News</p>
+
+  <div class="footer-socials">
+    <a href="#"><i class="fab fa-youtube"></i></a>
+    <a href="#"><i class="fab fa-tiktok"></i></a>
+    <a href="#"><i class="fab fa-facebook"></i></a>
+  </div>
+
+  <p class="copyright">
+    © 2025 Kenyan Politics 24/7. All Rights Reserved.
+  </p>
+</footer>
+
+</body>
+</html>
